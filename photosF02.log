@@ -1,0 +1,635 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.12.7)  23 JAN 2022 18:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**photosF02.tex
+(./photosF02.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \frametitle
+               {Experiment description}
+? 
+! Undefined control sequence.
+<argument> \frametitle 
+                       
+l.3 \frametitle
+               {Experiment description}
+? 
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+! Undefined control sequence.
+l.4 \includegraphics
+                    [width=0.95\linewidth]{./photos_Format02/IMG-2840.JPG}
+? 
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.4 \includegraphics[width=0.95\linewidth]
+                                          {./photos_Format02/IMG-2840.JPG}
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.4 \includegraphics[width=0.95\linewidth]
+                                          {./photos_Format02/IMG-2840.JPG}
+? 
+Missing character: There is no ] in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 ...udegraphics[width=0.95\linewidth]{./photos_
+                                                  Format02/IMG-2840.JPG}
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+! Extra }, or forgotten $.
+l.4 ...\linewidth]{./photos_Format02/IMG-2840.JPG}
+                                                  
+? 
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \begin{figure}
+                  
+? 
+
+! LaTeX Error: \begin{frame} on input line 2 ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \end{figure}
+                
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.7 \end{frame}
+               
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.7 \end{frame}
+               
+? 
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--9
+[][]
+ []
+
+
+Overfull \hbox (80.57422pt too wide) in paragraph at lines 3--9
+[]\OML/cmm/m/it/10 ormat\OT1/cmr/m/n/10 02\OML/cmm/m/it/10 =IMG \OMS/cmsy/m/n/1
+0 ^^@
+ []
+
+
+Overfull \hbox (44.95631pt too wide) in paragraph at lines 3--9
+\OT1/cmr/m/n/10 2840\OML/cmm/m/it/10 :JPG$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \frametitle
+                {Experiment description}
+? 
+! Undefined control sequence.
+<argument> \frametitle 
+                       
+l.13 \frametitle
+                {Experiment description}
+? 
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+! Undefined control sequence.
+l.14 \includegraphics
+                     [width=0.95\linewidth]{./photos_Format02/IMG-2846.JPG}
+? 
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.14 \includegraphics[width=0.95\linewidth]
+                                           {./photos_Format02/IMG-2846.JPG}
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.14 \includegraphics[width=0.95\linewidth]
+                                           {./photos_Format02/IMG-2846.JPG}
+? 
+Missing character: There is no ] in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 ...degraphics[width=0.95\linewidth]{./photos_
+                                                  Format02/IMG-2846.JPG}
+? 
+! Extra }, or forgotten $.
+l.14 ...linewidth]{./photos_Format02/IMG-2846.JPG}
+                                                  
+? 
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \begin{figure}
+                   
+? 
+
+! LaTeX Error: \begin{frame} on input line 12 ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \end{figure}
+                 
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.17 \end{frame}
+                
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.17 \end{frame}
+                
+? 
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 13--19
+[][]
+ []
+
+
+Overfull \hbox (80.57422pt too wide) in paragraph at lines 13--19
+[]\OML/cmm/m/it/10 ormat\OT1/cmr/m/n/10 02\OML/cmm/m/it/10 =IMG \OMS/cmsy/m/n/1
+0 ^^@
+ []
+
+
+Overfull \hbox (44.95631pt too wide) in paragraph at lines 13--19
+\OT1/cmr/m/n/10 2846\OML/cmm/m/it/10 :JPG$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \frametitle
+                {Experiment description}
+? 
+! Undefined control sequence.
+<argument> \frametitle 
+                       
+l.23 \frametitle
+                {Experiment description}
+? 
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+! Undefined control sequence.
+l.24 \includegraphics
+                     [width=0.95\linewidth]{./photos_Format02/IMG-2852.JPG}
+? 
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.24 \includegraphics[width=0.95\linewidth]
+                                           {./photos_Format02/IMG-2852.JPG}
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.24 \includegraphics[width=0.95\linewidth]
+                                           {./photos_Format02/IMG-2852.JPG}
+? 
+Missing character: There is no ] in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.24 ...degraphics[width=0.95\linewidth]{./photos_
+                                                  Format02/IMG-2852.JPG}
+? 
+! Extra }, or forgotten $.
+l.24 ...linewidth]{./photos_Format02/IMG-2852.JPG}
+                                                  
+? 
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \begin{figure}
+                   
+? 
+
+! LaTeX Error: \begin{frame} on input line 22 ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \end{figure}
+                 
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.27 \end{frame}
+                
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.27 \end{frame}
+                
+? 
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 23--29
+[][]
+ []
+
+
+Overfull \hbox (80.57422pt too wide) in paragraph at lines 23--29
+[]\OML/cmm/m/it/10 ormat\OT1/cmr/m/n/10 02\OML/cmm/m/it/10 =IMG \OMS/cmsy/m/n/1
+0 ^^@
+ []
+
+
+Overfull \hbox (44.95631pt too wide) in paragraph at lines 23--29
+\OT1/cmr/m/n/10 2852\OML/cmm/m/it/10 :JPG$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 \frametitle
+                {Experiment description}
+? 
+! Undefined control sequence.
+<argument> \frametitle 
+                       
+l.33 \frametitle
+                {Experiment description}
+? 
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+! Undefined control sequence.
+l.34 \includegraphics
+                     [width=0.95\linewidth]{./photos_Format02/IMG-2856.JPG}
+? 
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.34 \includegraphics[width=0.95\linewidth]
+                                           {./photos_Format02/IMG-2856.JPG}
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.34 \includegraphics[width=0.95\linewidth]
+                                           {./photos_Format02/IMG-2856.JPG}
+? 
+Missing character: There is no ] in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.34 ...degraphics[width=0.95\linewidth]{./photos_
+                                                  Format02/IMG-2856.JPG}
+? 
+! Extra }, or forgotten $.
+l.34 ...linewidth]{./photos_Format02/IMG-2856.JPG}
+                                                  
+? 
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 \begin{figure}
+                   
+? 
+
+! LaTeX Error: \begin{frame} on input line 32 ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \end{figure}
+                 
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{frame}
+                
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.37 \end{frame}
+                
+? 
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 33--39
+[][]
+ []
+
+
+Overfull \hbox (80.57422pt too wide) in paragraph at lines 33--39
+[]\OML/cmm/m/it/10 ormat\OT1/cmr/m/n/10 02\OML/cmm/m/it/10 =IMG \OMS/cmsy/m/n/1
+0 ^^@
+ []
+
+
+Overfull \hbox (44.95631pt too wide) in paragraph at lines 33--39
+\OT1/cmr/m/n/10 2856\OML/cmm/m/it/10 :JPG$ 
+ []
+
+)
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type
